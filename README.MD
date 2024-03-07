@@ -21,7 +21,7 @@ This is a landing page for an ice cream business, showcasing various flavors and
 4. **Our Service Section**
    - Description of the company's service promises with icons and text.
 
-5. **Benefits Section**
+5. **Making Process Section**
    - Embedded YouTube video showcasing the benefits of the ice cream.
 
 6. **Contact Section**
