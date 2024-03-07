@@ -31,7 +31,7 @@ This is a landing page for an ice cream business, showcasing various flavors and
 - Copyright information and contact details.
 
 ## Preview
-[![IceCream Landing Page](preview.png)](https://example.com)
+[![IceCream Landing Page](web.page](https://github.com/mueezbaig/Ice-Cream-Landing_page/blob/main/webpage.png)
 
 ## Contribution
 Contributions to the improvement of this landing page are welcome! Please feel free to fork the repository, make your changes, and submit a pull request.
